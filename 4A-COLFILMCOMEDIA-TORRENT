@@ -20,27 +20,26 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme[/B][/COLOR]</name>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Deuses Devem Estar Loucos[/B][/COLOR]</name>
 <thumbnail>ICONEPASTA</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Coleção NomedoFilme </info>
+<info>Coleção Os Deuses Devem Estar Loucos </info>
 <genre>COMÉDIA</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] NomedoFilme[/B][/COLOR]</title>
+<title>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Os Deuses Devem Estar Loucos[/B][/COLOR]</title>
 <link>NOLINK</link>
 <thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Filme NomedoFilme</info>
+<info>Coleção Os Deuses Devem Estar Loucos</info>
 <genre>COMÉDIA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=LINKDOTRAILER</link>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Deuses Devem Estar Loucos[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Fs4nNZR2Juk</link>
 
 <thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -50,27 +49,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme - DATA - Dublado[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.elementum/play?uri=LINKTORRENT</link>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Deuses Devem Estar Loucos - Coleção - 1980 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:562F89DFA22BAC30DF21ACD1FFC13D49BC15D0C6&dn=Carregando.Download.Mais.Download.em.www.BRSHARES.com&tr=http%3A%2F%2Fbr2share.com%2Fannounce.php%3Fpasskey65940be6163205173e6aeb9f0448cc9&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.istole.it%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=http%3A%2F%2Fmgtracker.org%3A2710%2Fannounce&tr=http%3A%2F%2Fbt.careland.com.cn%3A6969%2Fannounce&tr=udp%3A%2F%2Fwww.eddie4.nl%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.best-torrents.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2F121.14.98.151%3A9090%2Fannounce</link>
 
 <thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
+<info>Uma garrafa de Coca-Cola, jogada de um avião faz os nativos acreditarem que é um presente dos deuses, mas como isto gera uma série de brigas, eles decidem devolvê-la aos deuses, escolhendo um dos nativos para fazer a devolução. </info>
 <genre>COMÉDIA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme - DATA - Dublado[/B][/COLOR]</title>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Os Deuses Devem Estar Loucos - Coleção - 1980 - Dublado[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.elementum/play?uri=LINKTORRENT</link>
 
 <thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
+<info>Uma garrafa de Coca-Cola, jogada de um avião faz os nativos acreditarem que é um presente dos deuses, mas como isto gera uma série de brigas, eles decidem devolvê-la aos deuses, escolhendo um dos nativos para fazer a devolução. </info>
 <genre>COMÉDIA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
