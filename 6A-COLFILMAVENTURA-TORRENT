@@ -200,3 +200,53 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] No Fim do Mundo[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/jffMrkJ/nofimdomundo-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme No Fim do Mundo</info>
+<genre>AVENTURA</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] No Fim do Mundo[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/jffMrkJ/nofimdomundo-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme No Fim do Mundo em TORRENT</info>
+<genre>AVENTURA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] No Fim do Mundo[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=FyAZ6gLzfp0</link>
+<thumbnail>https://i.ibb.co/jffMrkJ/nofimdomundo-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>AVENTURA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] No Fim do Mundo - 2007 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78369b8167a2d2b963396a011285db3b2528598f</link>
+<thumbnail>https://i.ibb.co/jffMrkJ/nofimdomundo-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O lorde Cuttler Beckett (Tom Hollander), da Companhia das Índias Orientais, detém o comando do navio-fantasma Flying Dutchman. O navio, agora sob o comando do almirante James Norrington (Jack Davenport), tem por missão vagar pelos sete mares em busca de piratas e matá-los sem piedade. Na intenção de deter Beckett, Will Turner (Orlando Bloom), Elizabeth Swann (Keira Knightley) e o capitão Barbossa (Geoffrey Rush) precisam reunir os Nove Lordes da Corte da Irmandade. Porém falta um dos Lordes, o capitão Jack Sparrow (Johnny Depp). O trio parte para Cingapura, na intenção de conseguir o mapa que os conduzirá ao fim do mundo, o que possibilitará que Jack seja resgatado. Porém para conseguir o mapa eles precisarão enfrentar um pirata chinês, o capitão Sao Feng (Chow Yun-Fat).</info>
+<genre>AVENTURA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] No Fim do Mundo - 2007 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78369b8167a2d2b963396a011285db3b2528598f</link>
+<thumbnail>https://i.ibb.co/jffMrkJ/nofimdomundo-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O lorde Cuttler Beckett (Tom Hollander), da Companhia das Índias Orientais, detém o comando do navio-fantasma Flying Dutchman. O navio, agora sob o comando do almirante James Norrington (Jack Davenport), tem por missão vagar pelos sete mares em busca de piratas e matá-los sem piedade. Na intenção de deter Beckett, Will Turner (Orlando Bloom), Elizabeth Swann (Keira Knightley) e o capitão Barbossa (Geoffrey Rush) precisam reunir os Nove Lordes da Corte da Irmandade. Porém falta um dos Lordes, o capitão Jack Sparrow (Johnny Depp). O trio parte para Cingapura, na intenção de conseguir o mapa que os conduzirá ao fim do mundo, o que possibilitará que Jack seja resgatado. Porém para conseguir o mapa eles precisarão enfrentar um pirata chinês, o capitão Sao Feng (Chow Yun-Fat).</info>
+<genre>AVENTURA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
