@@ -250,3 +250,53 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Navegando em Águas Misteriosas[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/Q9kshdh/navgagumister-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme Navegando em Águas Misteriosas</info>
+<genre>AVENTURA</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Navegando em Águas Misteriosas[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/Q9kshdh/navgagumister-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme Navegando em Águas Misteriosas em TORRENT</info>
+<genre>AVENTURA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Navegando em Águas Misteriosas[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=haenBC_xPnc</link>
+<thumbnail>https://i.ibb.co/Q9kshdh/navgagumister-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>AVENTURA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Navegando em Águas Misteriosas - 2011 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9728044658fe6437c98e321af5ea1650bb1bbba0</link>
+<thumbnail>https://i.ibb.co/Q9kshdh/navgagumister-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O capitão Jack Sparrow (Johnny Depp) vai até Londres para resgatar Gibbs (Kevin McNally), integrante de sua tripulação no Pérola Negra. Lá ele descobre que alguém está usando seu nome para conseguir marujos em uma viagem rumo à Fonte da Juventude. Sparrow investiga e logo percebe que Angelica (Penélope Cruz), um antigo caso que balançou seu coração, é a responsável pela farsa. Ela é filha do lendário pirata Barba Negra (Ian McShane), que está com os dias contados. Desta forma, Angelica quer encontrar a Fonte da Juventude para que seu pai tenha mais alguns anos de vida. No encalço deles está o capitão Barbossa (Geoffrey Rush), que agora trabalha para o império britânico.</info>
+<genre>AVENTURA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Navegando em Águas Misteriosas - 2011 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9bb800b1bca24e32cbdd9787adc1d353be4b6990</link>
+<thumbnail>https://i.ibb.co/Q9kshdh/navgagumister-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O capitão Jack Sparrow (Johnny Depp) vai até Londres para resgatar Gibbs (Kevin McNally), integrante de sua tripulação no Pérola Negra. Lá ele descobre que alguém está usando seu nome para conseguir marujos em uma viagem rumo à Fonte da Juventude. Sparrow investiga e logo percebe que Angelica (Penélope Cruz), um antigo caso que balançou seu coração, é a responsável pela farsa. Ela é filha do lendário pirata Barba Negra (Ian McShane), que está com os dias contados. Desta forma, Angelica quer encontrar a Fonte da Juventude para que seu pai tenha mais alguns anos de vida. No encalço deles está o capitão Barbossa (Geoffrey Rush), que agora trabalha para o império britânico.</info>
+<genre>AVENTURA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
