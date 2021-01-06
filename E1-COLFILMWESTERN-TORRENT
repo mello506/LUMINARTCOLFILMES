@@ -21,25 +21,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] INFERNO NO FAROESTE[/B][/COLOR]</name>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Inferno no Faroeste[/B][/COLOR]</name>
 <thumbnail>ICONEPASTA</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>COLEÇÃO INFERNO NO FAROESTE </info>
+<info>COLEÇÃO Inferno no Faroeste </info>
 <genre>WESTERN</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] INFERNO NO FAROESTE[/B][/COLOR]</title>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Inferno no Faroeste[/B][/COLOR]</title>
 <link>NOLINK</link>
 <thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>ASSISTA AQUI O FILME INFERNO NO FAROESTE EM TORRENT</info>
+<info>ASSISTA AQUI O FILME Inferno no Faroeste EM TORRENT</info>
 <genre>WESTERN</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] INFERNO NO FAROESTE[/B][/COLOR]</title>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Inferno no Faroeste[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=KKRUKJ40SeI</link>
 <thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -49,7 +49,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] INFERNO NO FAROESTE - 2013 - DUB[/B][/COLOR]</title>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Inferno no Faroeste - 2013 - DUB[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9028303e9216978ae24a258445ee09a542852d6f&dn=Inferno+no+Faroeste+%282013%29+BDRip+720p+dublado+-+Gilkerberus&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -59,7 +59,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] INFERNO NO FAROESTE - 2013 - DUB[/B][/COLOR]</title>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Inferno no Faroeste - 2013 - DUB[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9028303e9216978ae24a258445ee09a542852d6f&dn=Inferno+no+Faroeste+%282013%29+BDRip+720p+dublado+-+Gilkerberus&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -69,17 +69,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] INFERNO NO FAROESTE II[/B][/COLOR]</title>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Inferno no Faroeste II[/B][/COLOR]</title>
 <link>NOLINK</link>
 <thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>ASSISTA AQUI O FILME INFERNO NO FAROESTE EM TORRENT</info>
+<info>ASSISTA AQUI O FILME Inferno no Faroeste EM TORRENT</info>
 <genre>WESTERN</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] INFERNO NO FAROESTE II[/B][/COLOR]</title>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Inferno no Faroeste II[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=YKJW0obB3Qo</link>
 <thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -89,7 +89,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] INFERNO NO FAROESTE II - 2017 - DUB[/B][/COLOR]</title>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Inferno no Faroeste II - 2017 - DUB[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AB93D6C80679F73C0139B557A1C0F15384A397C8&dn=Inferno%20no%20Faroeste%202%202017%20%28720p%29%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2740%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -99,7 +99,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] INFERNO NO FAROESTE II - 2017 - DUB[/B][/COLOR]</title>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Inferno no Faroeste II - 2017 - DUB[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:257576B854DC334C01E68205C40460B1A3EB8093&dn=Inferno%20no%20Faroeste%202%202017%20%281080p%29%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2740%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -111,25 +111,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] YOUNG GUNS[/B][/COLOR]</name>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Young Guns[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/6nyp6W9/younguns-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>COLEÇÃO YOUNG GUNS </info>
+<info>COLEÇÃO Young Guns </info>
 <genre>WESTERN</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] JOVENS PISTOLEIROS[/B][/COLOR]</title>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Jovens Pistoleiros[/B][/COLOR]</title>
 <link>NOLINK</link>
 <thumbnail>https://i.ibb.co/F7zFb2C/youguns1-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>ASSISTA AQUI O FILME JOVENS PISTOLEIROS EM TORRENT</info>
+<info>ASSISTA AQUI O FILME Jovens Pistoleiros EM TORRENT</info>
 <genre>WESTERN</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] JOVENS PISTOLEIROS[/B][/COLOR]</title>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Jovens Pistoleiros[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=V0LdYnxB1s</link>
 <thumbnail>https://i.ibb.co/F7zFb2C/youguns1-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -139,7 +139,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] JOVENS PISTOLEIROS - 1988 - DUB[/B][/COLOR]</title>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Jovens Pistoleiros - 1988 - DUB[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d2860f72ae02748b33265e60a11795e0442a8fe&dn=Os+Jovens+Pistoleiros+%281988%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 <thumbnail>https://i.ibb.co/F7zFb2C/youguns1-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -149,7 +149,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR red][B] JOVENS PISTOLEIROS - 1988 - DUB[/B][/COLOR]</title>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Jovens Pistoleiros - 1988 - DUB[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=TORRENT1080</link>
 <thumbnail>https://i.ibb.co/F7zFb2C/youguns1-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -159,17 +159,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] JOVENS DEMAIS PARA MORRER[/B][/COLOR]</title>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Jovens Demais para Morrer[/B][/COLOR]</title>
 <link>NOLINK</link>
 <thumbnail>https://i.ibb.co/WskVcnw/youguns2-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>ASSISTA AQUI O FILME JOVENS DEMAIS PARA MORRER EM TORRENT</info>
+<info>ASSISTA AQUI O FILME Jovens Demais para Morrer EM TORRENT</info>
 <genre>WESTERN</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] JOVENS DEMAIS PARA MORRER[/B][/COLOR]</title>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Jovens Demais para Morrer[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=kn8omp12ns</link>
 <thumbnail>https://i.ibb.co/WskVcnw/youguns2-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -179,7 +179,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] JOVENS DEMAIS PARA MORRER - 1990 - DUB[/B][/COLOR]</title>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Jovens Demais para Morrer - 1990 - DUB[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c8e35973f09e76d3f23d336600a961f9dd01a48&dn=Jovens%20Demais%20Para%20Morrer%20(1990)%20WEB-DL%20720p%20Dual.Audio%20%5bGeekFilmes.org%5d&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce</link>
 <thumbnail>https://i.ibb.co/WskVcnw/youguns2-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -189,7 +189,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] JOVENS DEMAIS PARA MORRER - 1990 - DUB[/B][/COLOR]</title>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Jovens Demais para Morrer - 1990 - DUB[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28b23a3c91399d36fc0a4806431fa5b0a386a2e3&dn=%5bACESSE...HD-ELITE.ME%5d%20Jovens.Demais.Para.Morrer.1990.WEB-DL1080p.DUAL-MTV&tr=udp%3a%2f%2f9.rarbg.me%3a2790%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969$$</link>
 <thumbnail>https://i.ibb.co/WskVcnw/youguns2-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
